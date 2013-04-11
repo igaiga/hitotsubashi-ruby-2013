@@ -7,6 +7,7 @@
 - https://speakerdeck.com/igaiga/rubykai-fa-huan-jing-gou-zhu
 
 ### 第1回 2012.4.11 講義ガイダンス
+- https://speakerdeck.com/igaiga/rubyjiang-yi-di-1hui-gaidansu
 
 ## Data
 ### VirtualBox Ubuntu image file
