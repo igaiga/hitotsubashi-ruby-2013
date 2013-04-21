@@ -6,10 +6,10 @@
 ### Ruby環境構築
 - https://speakerdeck.com/igaiga/rubykai-fa-huan-jing-gou-zhu
 
-### 第1回 2012.4.11 講義ガイダンス
+### 第1回 2013.4.11 講義ガイダンス
 - https://speakerdeck.com/igaiga/rubyjiang-yi-di-1hui-gaidansu
 
-### 第2回 2012.4.18 環境構築
+### 第2回 2013.4.18 環境構築
 - https://speakerdeck.com/igaiga/rubyjiang-yi-di-2hui-huan-jing-gou-zhu
 
 ## Data
