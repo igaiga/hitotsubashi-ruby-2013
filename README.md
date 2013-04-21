@@ -12,6 +12,9 @@
 ### 第2回 2013.4.18 環境構築
 - https://speakerdeck.com/igaiga/rubyjiang-yi-di-2hui-huan-jing-gou-zhu
 
+### 第3回 2013.4.25 irb, shell, 四則演算, 文字コード
+- https://speakerdeck.com/igaiga/rubyjiang-yi-di-3hui
+
 ## Data
 ### VirtualBox Ubuntu image file
 - http://igarashikuniaki.net/tmp/ubuntu-ja-12.04-desktop-i386.vhd
