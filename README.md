@@ -15,6 +15,9 @@
 ### 第3回 2013.4.25 irb, shell, 四則演算, 文字コード
 - https://speakerdeck.com/igaiga/rubyjiang-yi-di-3hui
 
+### 第4回 2013.5.2 変数, 条件分岐, 繰り返し, メソッド, require
+- https://speakerdeck.com/igaiga/rubyjiang-yi-di-4hui
+
 ## Data
 ### VirtualBox Ubuntu image file
 - http://igarashikuniaki.net/tmp/ubuntu-ja-12.04-desktop-i386.vhd
