@@ -24,6 +24,9 @@
 ### 第6回 2013.5.16 Wikipedia アクセス解析1
 - https://speakerdeck.com/igaiga/rubyjiang-yi-di-6hui
 
+### 第7回 2013.5.23 Wikipedia アクセス解析1
+- https://speakerdeck.com/igaiga/rubyjiang-yi-di-7hui
+
 ## Data
 ### VirtualBox Ubuntu image file
 - http://igarashikuniaki.net/tmp/ubuntu-ja-12.04-desktop-i386.vhd
