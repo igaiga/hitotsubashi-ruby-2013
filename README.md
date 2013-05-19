@@ -24,7 +24,7 @@
 ### 第6回 2013.5.16 Wikipedia アクセス解析1
 - https://speakerdeck.com/igaiga/rubyjiang-yi-di-6hui
 
-### 第7回 2013.5.23 Wikipedia アクセス解析1
+### 第7回 2013.5.23 Wikipedia アクセス解析2
 - https://speakerdeck.com/igaiga/rubyjiang-yi-di-7hui
 
 ## Data
