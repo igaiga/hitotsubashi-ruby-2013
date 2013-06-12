@@ -30,6 +30,9 @@
 ### 第8回 2013.6.6 各種演習
 - https://speakerdeck.com/igaiga/ruby08
 
+### 第9回 2013.6.13 クラス、インスタンス
+- https://speakerdeck.com/igaiga/ruby09
+
 ## Data
 ### VirtualBox Ubuntu image file
 - http://igarashikuniaki.net/tmp/ubuntu-ja-12.04-desktop-i386.vhd
