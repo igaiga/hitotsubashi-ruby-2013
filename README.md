@@ -39,6 +39,12 @@
 ### 第11回 2013.6.27 継承、Module
 - https://speakerdeck.com/igaiga/ruby11
 
+### 第12回 2013.7.4 gem
+- https://speakerdeck.com/igaiga/ruby12
+
+### 第13回 2013.7.11 Sinatra でつくる簡単Webアプリ
+- https://speakerdeck.com/igaiga/ruby13
+
 ## Data
 ### VirtualBox Ubuntu image file
 - http://igarashikuniaki.net/tmp/ubuntu-ja-12.04-desktop-i386.vhd
