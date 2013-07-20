@@ -45,6 +45,9 @@
 ### 第13回 2013.7.11 Sinatra でつくる簡単Webアプリ
 - https://speakerdeck.com/igaiga/ruby13
 
+### 第14回 2013.7.18 夏学期総復習
+- https://speakerdeck.com/igaiga/ruby14
+
 ## Data
 ### VirtualBox Ubuntu image file
 - http://igarashikuniaki.net/tmp/ubuntu-ja-12.04-desktop-i386.vhd
