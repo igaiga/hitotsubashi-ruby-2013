@@ -4,28 +4,28 @@
 ## 講義資料 夏学期
 
 ### Ruby環境構築
-- https://speakerdeck.com/igaiga/rubykai-fa-huan-jing-gou-zhu
+- https://speakerdeck.com/igaiga/building-ruby-dev-env
 
 ### 第1回 2013.4.11 講義ガイダンス
-- https://speakerdeck.com/igaiga/rubyjiang-yi-di-1hui-gaidansu
+- https://speakerdeck.com/igaiga/ruby01
 
 ### 第2回 2013.4.18 環境構築
-- https://speakerdeck.com/igaiga/rubyjiang-yi-di-2hui-huan-jing-gou-zhu
+- https://speakerdeck.com/igaiga/ruby02
 
 ### 第3回 2013.4.25 irb, shell, 四則演算, 文字コード
-- https://speakerdeck.com/igaiga/rubyjiang-yi-di-3hui
+- https://speakerdeck.com/igaiga/ruby03
 
 ### 第4回 2013.5.2 変数, 条件分岐, 繰り返し, メソッド, require
-- https://speakerdeck.com/igaiga/rubyjiang-yi-di-4hui
+- https://speakerdeck.com/igaiga/ruby04
 
 ### 第5回 2013.5.9 Array, Hash
-- https://speakerdeck.com/igaiga/rubyjiang-yi-di-5hui
+- https://speakerdeck.com/igaiga/ruby05
 
 ### 第6回 2013.5.16 Wikipedia アクセス解析1
-- https://speakerdeck.com/igaiga/rubyjiang-yi-di-6hui
+- https://speakerdeck.com/igaiga/ruby06
 
 ### 第7回 2013.5.23 Wikipedia アクセス解析2
-- https://speakerdeck.com/igaiga/rubyjiang-yi-di-7hui
+- https://speakerdeck.com/igaiga/ruby07
 
 ### 第8回 2013.6.6 各種演習
 - https://speakerdeck.com/igaiga/ruby08
