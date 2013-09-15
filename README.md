@@ -53,5 +53,6 @@
 - http://igarashikuniaki.net/tmp/ubuntu-ja-12.04-desktop-i386.vhd
 - id: dev, pass: devdev
 - Ubuntu 12.04
-- Ruby-2.0.0-p0
-- Rails 3.2.13
+- Ruby-2.0.0-p247
+- Rails 4.0.0
+
