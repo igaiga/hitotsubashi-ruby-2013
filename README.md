@@ -48,6 +48,12 @@
 ### 第14回 2013.7.18 夏学期総復習
 - https://speakerdeck.com/igaiga/ruby14
 
+## 講義資料 冬学期
+
+### 第16回 2013.10.3 ガイダンス
+- https://speakerdeck.com/igaiga/ruby16
+
+
 ## Data
 ### VirtualBox Ubuntu image file
 - http://igarashikuniaki.net/tmp/ubuntu-ja-12.04-desktop-i386.vhd
