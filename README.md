@@ -62,6 +62,9 @@
 ### 第19回 2013.10.24 HTML, CSS
 - https://speakerdeck.com/igaiga/ruby19
 
+### 第20回 2013.10.31 CRUD基礎
+- https://speakerdeck.com/igaiga/ruby20
+
 ## Data
 ### VirtualBox Ubuntu image file
 - http://igarashikuniaki.net/tmp/ubuntu-ja-12.04-desktop-i386.vhd
