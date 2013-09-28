@@ -53,6 +53,9 @@
 ### 第16回 2013.10.3 ガイダンス
 - https://speakerdeck.com/igaiga/ruby16
 
+### 第17回 2013.10.10 Rails開発環境構築
+- https://speakerdeck.com/igaiga/ruby17
+
 
 ## Data
 ### VirtualBox Ubuntu image file
