@@ -59,6 +59,9 @@
 ### 第18回 2013.10.17 一番ちいさなRailsアプリつくり
 - https://speakerdeck.com/igaiga/ruby18
 
+### 第19回 2013.10.24 HTML, CSS
+- https://speakerdeck.com/igaiga/ruby19
+
 ## Data
 ### VirtualBox Ubuntu image file
 - http://igarashikuniaki.net/tmp/ubuntu-ja-12.04-desktop-i386.vhd
