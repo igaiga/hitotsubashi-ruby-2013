@@ -65,7 +65,11 @@
 ### 第20回 2013.10.31 CRUD基礎
 - https://speakerdeck.com/igaiga/ruby20
 
-## Data
+## 付録
+
+### iPhone Push Notification with im.kayac.com
+- https://speakerdeck.com/igaiga/iphone-push-notification
+
 ### VirtualBox Ubuntu image file
 - http://igarashikuniaki.net/tmp/ubuntu-ja-12.04-desktop-i386.vhd
 - id: dev, pass: devdev
