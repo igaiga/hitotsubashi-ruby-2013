@@ -65,6 +65,12 @@
 ### 第20回 2013.10.31 CRUD基礎
 - https://speakerdeck.com/igaiga/ruby20
 
+### 第21回 2013.11.14 new, create
+- https://speakerdeck.com/igaiga/ruby21
+
+### 第22回 2013.11.28 model
+- https://speakerdeck.com/igaiga/ruby22
+
 ## 付録
 
 ### iPhone Push Notification with im.kayac.com
