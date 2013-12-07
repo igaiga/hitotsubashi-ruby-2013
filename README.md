@@ -71,6 +71,12 @@
 ### 第22回 2013.11.28 model
 - https://speakerdeck.com/igaiga/ruby22
 
+### 第23回 2013.12.5 画像投稿アプリ
+- https://speakerdeck.com/igaiga/ruby23
+
+### 第24回 2013.12.12 開発者の道具箱 git, rspec, twitter-bootstrap
+- https://speakerdeck.com/igaiga/ruby24
+
 ## 付録
 
 ### iPhone Push Notification with im.kayac.com
